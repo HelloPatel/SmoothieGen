@@ -1,4 +1,4 @@
-SmoothieGen
+SWAG
 ===========
 
 HackNC 2014
